@@ -6,6 +6,6 @@ de supprimé le todo si on à plus besoin. il est également possible de trier l
 Pour commencer , vous pouvez faire un clone ou alors vous pouvez le télécharger sur votre ordinateur.Avant de lancer le serveur il faut d'abord installer le node modules en écrivant cette ligne de commande dans le terminal  
 `npm install express --save`  
 Ensuite il faut installer le bootstrap avec cette ligne de commande  
-`npm install react-bootstrap bootstrap`
+`npm install react-bootstrap bootstrap`  
 Enfin en lance le serveur avec  
 `npm start`
