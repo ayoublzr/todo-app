@@ -8,4 +8,4 @@ Pour commencer , vous pouvez faire un clone ou alors vous pouvez le télécharge
 Ensuite il faut installer le bootstrap avec cette ligne de commande  
 `npm install react-bootstrap bootstrap`  
 Enfin en lance le serveur avec  
-`npm start`
+`npm start`vvvvvv
